@@ -1,4 +1,5 @@
-# tei-example
+<TEI>
+	<teiHeader> 
 
 1.
 <text>  
@@ -59,4 +60,6 @@
    --<said aloud="true" type="direct"> Если б пришли три корабля с мышьяком на отраву всем дербентцам, я бы радовался один более, чем теперь они все вместе.</said>
 	</speech>
 </text>
+	</teiHeader> 
+</TEI>
 	
